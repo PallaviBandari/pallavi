@@ -1,0 +1,15 @@
+1. What is Java?
+
+Ans: Java is a high-level, object-oriented programming language that was developed by Sun Microsystems in 1995. It is platform-independent, meaning that programs written in Java can run on any platform that has a Java Virtual Machine (JVM) installed.
+
+2. What are the features of Java?
+
+Ans: Java has several features that make it a popular programming language. Some of these features include platform independence, object-oriented programming, automatic memory management, robustness, and security.
+
+3. What is JVM?
+
+Ans: JVM stands for Java Virtual Machine. It is an abstract machine that provides the runtime environment in which Java programs are executed. The JVM interprets Java bytecode and translates it into machine-specific code.
+
+4. What is the difference between JDK, JRE, and JVM?
+
+Ans: JDK stands for Java Development Kit. It is a software development kit that includes tools for developing, compiling, and debugging Java programs. JRE stands for Java Runtime Environment. It is a software environment that provides the necessary runtime libraries and components for running Java programs. JVM is the virtual machine that executes the Java bytecode.
